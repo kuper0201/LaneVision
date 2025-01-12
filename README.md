@@ -20,9 +20,9 @@ This serves as a foundation for reducing the input complexity of autonomous driv
       <th>Composited Image</th>
     </tr>
     <tr align="center">
-      <td><img src=""/></td>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/user-attachments/assets/d81681cf-2646-479d-94af-0ae7b517e8f6"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d8e71c2e-f891-4280-8d03-0d000faeb4d4"/></td>
+      <td><img src="https://github.com/user-attachments/assets/4a6bc96e-fee1-4a1b-9df3-4bff090ac5d0"/></td>
     </tr>
   </table>
 </div>
